@@ -1,5 +1,5 @@
 # Bài thơ giúp học thuộc 3000 từ tiếng Anh
-
+```
 Hello có nghĩa Xin chào
 Goodbye tạm biệt, thì thào Whisper
 Lie nằm, Sleep ngủ, Dream mơ
@@ -308,5 +308,6 @@ SPOON có nghĩa cái thìa
 Toán trừ SUBTRACT, toán chia DIVIDE
 PLOUGH tức là đi cày
 WEEK tuần MONTH tháng, WHAT TIME mấy giờ?
+```
 
-* Theo Giáo sư Ngô Bảo Châu *
+*Theo Giáo sư Ngô Bảo Châu*
